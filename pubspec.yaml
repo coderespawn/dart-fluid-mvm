@@ -1,4 +1,7 @@
 name: fluid_mvm
-description: A sample web application
+version: 1.0.0
+author: Ali Akbar Vathi <ali.akbar@gmail.com>
+description: Dart port of Grant Kot's MVM Fluid Solver
+homepage: https://github.com/coderespawn/dart-fluid-mvm
 dependencies:
-  browser: any
+  browser: '>=0.8.7 <0.8.8'
